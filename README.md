@@ -1,8 +1,6 @@
 # Hi, I'm Pedro Jossi
 
-I'm a **Systems Engineering Student** (Thesis pending) from Argentina, passionate about building robust **Backend systems** and **Data pipelines**.
-
-I bridge the gap between complex data processing and scalable web architecture. Currently looking for **Junior Backend / Data Engineer** roles.
+I'm a pragmatic Junior Software Engineer focused on backend development and building end-to-end solutions.
 
 ---
 
@@ -38,7 +36,7 @@ I bridge the gap between complex data processing and scalable web architecture. 
 
 ## Featured Projects
 
-### [Ortiz y Cia - Market Intelligence Platform](https://pjossi.pythonanywhere.com/)
+### [Ortiz y Cia - Market Intelligence Platform](https://ortizconsignatarios.com.ar/)
 > *Freelance Project | Production*
 
 A comprehensive B2B marketplace and data platform for the agricultural sector.
@@ -60,16 +58,6 @@ Developed a pipeline to analyze biomedical data (EEG) for cognitive load estimat
 * **The Tech:** Python, MNE, Scikit-learn.
 * **The Engineering:** Achieved >80% accuracy in classification using Random Forest and Wavelet/FFT feature extraction.
 
----
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroJ03&show_icons=true&theme=radical&hide=stars" alt="PedroJ03's GitHub stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroJ03&layout=compact&theme=radical&hide=css,html" alt="Top Languages" width="45%" />
-</p>
-
----
 
 ## Contact
 
