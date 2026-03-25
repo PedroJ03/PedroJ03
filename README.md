@@ -1,8 +1,5 @@
 # Hi, I'm Pedro 👋 | Pragmatic Software Engineer
 
-<p align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/660429718428863f6057a79e/4ca1b1d9-c439-4f7f-bdc9-3a1378f44d82/image_0.png" alt="PedroJ03 Software Engineer AI-First Backend Header" width="100%">
-</p>
 
 ## Professional Summary 🚀
 
