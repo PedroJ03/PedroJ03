@@ -1,65 +1,79 @@
-# Hi, I'm Pedro Jossi
+# Hi, I'm Pedro 👋 | Pragmatic Software Engineer
 
-I'm a pragmatic Junior Software Engineer focused on backend development and building end-to-end solutions.
+<p align="center">
+  <img src="https://images.squarespace-cdn.com/content/v1/660429718428863f6057a79e/4ca1b1d9-c439-4f7f-bdc9-3a1378f44d82/image_0.png" alt="PedroJ03 Software Engineer AI-First Backend Header" width="100%">
+</p>
 
----
+## Professional Summary 🚀
 
-## Tech Stack
+Pragmatic Junior Software Engineer focused on backend development and building end-to-end solutions. I currently develop using an AI-First Workflow of Spec-Driven Design with Opencode and Claude Code. My strength lies in understanding product requirements, selecting the right tools, and shipping functional, optimized code that delivers real business value. 
 
-**Languages**
-<br>
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-**Backend & Systems**
-<br>
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat&logo=socket.io&logoColor=white)
-
-**Data & Engineering**
-<br>
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-**Tools & Deploy**
-<br>
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+> **I am actively seeking a remote role** to tackle technical challenges and write reliable software within a collaborative team that fosters continuous learning.
 
 ---
 
-## Featured Projects
+## 🛠️ Tech Stack & Tools
 
-### [Ortiz y Cia - Market Intelligence Platform](https://ortizconsignatarios.com.ar/)
-> *Freelance Project | Production*
+### 🧠 AI Workflows & Spec-Driven Design
+![Spec-Driven Design](https://img.shields.io/badge/Workflow-Spec--Driven%20Design-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Agentic Development](https://img.shields.io/badge/Workflow-Agentic%20Development-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Claude Code](https://img.shields.io/badge/AI_Tool-Claude%20Code-7B61FF?style=for-the-badge&logo=claude&logoColor=white)
+![Gemini cli](https://img.shields.io/badge/AI_Tool-Gemini%20cli-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Opencode](https://img.shields.io/badge/AI_Tool-Opencode-gray?style=for-the-badge)
+![Codex](https://img.shields.io/badge/AI_Tool-Codex-gray?style=for-the-badge)
 
-A comprehensive B2B marketplace and data platform for the agricultural sector.
-* **The Tech:** Python (Flask), SQLite, SMTP, Web Scraping.
-* **The Engineering:** Automated ETL pipelines to scrape market data, replacing manual workflows. Implemented real-time email alerting, interactive dashboards and a personalized marketplace.
-* **Status:** Live & Active.
+### 💻 Languages & Databases
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### [Impostor - Real-time Multiplayer Game](https://juego-impostor-pj.vercel.app/)
-> *Personal Project | Distributed Systems*
+### ⚙️ Backend & Data Engineering
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/API-RESTful-0052CC?style=for-the-badge&logo=json&logoColor=white)
+![ETL Pipelines](https://img.shields.io/badge/Data-ETL%20Pipelines-orange?style=for-the-badge)
+![Web Scraping](https://img.shields.io/badge/Data-Web%20Scraping-green?style=for-the-badge)
+![Async Processing](https://img.shields.io/badge/Data-Asynchronous%20Background%20Processing-blueviolet?style=for-the-badge)
 
-A PWA social deduction game inspired by Spyfall, handling concurrent game rooms.
-* **The Tech:** Node.js, Express, Socket.io, React 18.
-* **The Engineering:** Implemented **WebSockets** for bi-directional communication (Offline/Online logic). Designed server-side security to prevent client-side state inspection.
+### 📊 Machine Learning & Data Processing
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Time-Series Analysis](https://img.shields.io/badge/ML-Time--Series%20Analysis-9370DB?style=for-the-badge)
+![Feature Extraction](https://img.shields.io/badge/ML-Feature%20Extraction-DB7093?style=for-the-badge)
 
-### [EEG Signal Processing Pipeline](https://github.com/PedroJ03/)
-> *R&D Internship | Data Engineering*
+### 🛠️ DevOps & Tools
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Security Validation](https://img.shields.io/badge/DevOps-Security%20Validation-DF0000?style=for-the-badge)
 
-Developed a pipeline to analyze biomedical data (EEG) for cognitive load estimation.
-* **The Tech:** Python, MNE, Scikit-learn.
-* **The Engineering:** Achieved >80% accuracy in classification using Random Forest and Wavelet/FFT feature extraction.
+---
 
+## 🎓 Education
 
-## Contact
+<details>
+<summary><b>Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN)</b></summary>
 
-* **LinkedIn:** [linkedin.com/in/pedro-jossi](https://www.linkedin.com/in/pedro-jossi-912515343/)
-* **Email:** pedrojossi03@gmail.com
+* **Systems Engineering**
+* *2021 — 2026*
+</details>
+
+---
+
+## 🌐 Languages
+
+* **🇺🇸 English:** Advanced (C1) - *cert.efset.org*
+* **🇪🇸 Spanish:** Native
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroJ03&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&locale=en" alt="PedroJ03's GitHub Stats" />
+</p>
